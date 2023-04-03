@@ -21,3 +21,5 @@ if __name__ == '__main__':
     s_list.get()
     #实现delete
     s_list.delete()
+
+
