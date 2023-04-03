@@ -22,4 +22,5 @@ if __name__ == '__main__':
     #实现delete
     s_list.delete()
 
+class Human():
 
